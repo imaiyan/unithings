@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1575045960 source:c:\users\enzor\documents\trabalhos univali\trabalhom3\main.cpp
+	<iostream>
+	"Hash.h"
+	"TextReader.h"
+	"Huffman.h"
+
+1575056048 c:\users\enzor\documents\trabalhos univali\trabalhom3\hash.h
+
+1574065267 c:\users\enzor\documents\trabalhos univali\trabalhom3\textreader.h
+	<iostream>
+	"ListaEncadeada.h"
+	<fstream>
+
+1575056017 c:\users\enzor\documents\trabalhos univali\trabalhom3\listaencadeada.h
+	<iostream>
+	"TNoHuffman.h"
+
+1575047558 c:\users\enzor\documents\trabalhos univali\trabalhom3\huffman.h
+	"TNoHuffman.h"
+	"ListaHuffman.h"
+
+1574621349 c:\users\enzor\documents\trabalhos univali\trabalhom3\tnohuffman.h
+
+1575055997 c:\users\enzor\documents\trabalhos univali\trabalhom3\listahuffman.h
+	<iostream>
+	"TNoHuffman.h"
+
