@@ -10,7 +10,8 @@ namespace openmp
     {
         return (leftStart < leftEnd) && (rightStart < rightEnd);
     }
-
+    
+    /* peguei a função do link https://gist.github.com/kbendick/1de4f311e2a780339eb3 */
     template<typename type, int size>
     void mergeHalves(std::array<type, size>& a, int left_low, int left_high, int right_low, int right_high)
     {
